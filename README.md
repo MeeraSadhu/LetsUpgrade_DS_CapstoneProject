@@ -22,3 +22,6 @@ Install keras version 2.10.0 ,tensorflow
 !pip install tf-nightly
 
 I have Used ResNet-50 for modelling
+
+
+Attaching the screenshots of model- https://docs.google.com/document/d/1vdhXmMTm1wvYCxo81KIwUcfDnjprDssdhAhSBX5h7fQ/edit?usp=sharing
